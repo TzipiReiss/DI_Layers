@@ -10,6 +10,7 @@ namespace A_GUI
 {
     class Program
     {
+        // hello
         static void Main(string[] args)
         {
             var list = Utilities.ConfigEmailDependencies("Mock").GetAll();
